@@ -6,7 +6,7 @@ DOI: to-be-confirmed
 
 # Computational Details
 
-Each defect species: Nb<sub>Ti</sub>, Ta<sub>Ti</sub>, N<sub>O</sub>, (NO)<sub>O</sub> and [Ta<sub>Ti</sub>+N<sub>O</sub>], [Nb<sub>Ti</sub>+N<sub>O</sub>], [Ta<sub>Ti</sub>+(NO)<sub>O</sub>] and [Nb<sub>Ti</sub>+(NO)<sub>O</sub>] and their respective charge states in anatase TiO<sub>2</sub> were relaxed in a 3x3x2 supercell expansion (~108 atoms) using the hybrid functional HSE06, a plane-wave energy cutoff of 450 eV, a $\Gamma$-centred _k_-point grid of 2x2x2 and spin-polarisation set. For each relaxation, only the atoms within the cell were permitted to relax keeping the cell angles, lengths and volumes the same. All calculations were carried out using the VASP code.
+Each defect species: Nb<sub>Ti</sub>, Ta<sub>Ti</sub>, N<sub>O</sub>, (NO)<sub>O</sub> and [Ta<sub>Ti</sub>+N<sub>O</sub>], [Nb<sub>Ti</sub>+N<sub>O</sub>], [Ta<sub>Ti</sub>+(NO)<sub>O</sub>] and [Nb<sub>Ti</sub>+(NO)<sub>O</sub>] and their respective charge states wthin the anatase TiO<sub>2</sub> lattice were relaxed in a 3x3x2 supercell expansion (~108 atoms) using the hybrid functional HSE06, a plane-wave energy cutoff of 450 eV, a $\Gamma$-centred _k_-point grid of 2x2x2 and spin-polarisation set. For each relaxation, only the atoms within the cell were permitted to relax keeping the cell angles, lengths and volumes the same. All calculations were carried out using the VASP code.
 
 # Requirements
 
